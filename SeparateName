@@ -1,0 +1,14 @@
+using System;
+
+
+namespace SeparateName
+{
+    class Program
+    {
+        static void Main()
+        {
+            System.Console.WriteLine("Ivan");
+            System.Console.WriteLine("Dzumaliev");
+        }
+    }
+}
